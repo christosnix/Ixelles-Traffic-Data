@@ -1,0 +1,8 @@
+﻿PointNo,AddressNo,AddressName,Street1,Street2,PointLatitude,PointLongitude,ConnectedPoints
+1,186,Adolphe Buyllaan,Adolphe Buyllaan,Antoine Depagelaan,50.8119192,4.3854808,"2,7"
+2,1,Antoine Depagelaan,Antoine Depagelaan,Av. Franklin Roosevelt,50.8108538,4.3819000,"1,3"
+3,12,Av. Franklin Roosevelt,Av. Franklin Roosevelt,Blvd General Jacques,50.8149604,4.3770030,"2,4"
+4,35,Blvd General Jacques,Blvd General Jacques,AdolpheBuyllaan,50.8181513,4.3794932,"3,5,7"
+5,261,Blvd General Jacques,Blvd General Jacques,Kroonlaan,50.8219142,4.3885156,"4,6"
+6,435,Kroonlaan,Kroonlaan,Hogeschoollaan,50.8164165,4.3917673,"5,7"
+7,101,Hogeschoollaan,Hogeschoollaan,Adolphe Buyllaan,50.8138693,4.3844860,"1,4,6"
