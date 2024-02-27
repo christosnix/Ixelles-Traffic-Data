@@ -5,9 +5,8 @@ SPICECO project traffic **density** data scraped from Google Maps for  Ixelles, 
 
 The data regard **density** of traffic and NOT actual traffic counts. They were acquired following the formula:
 
-\begin{equation}
-    D = \frac{dT_{A \rightarrow B}(t)}{dT_{A \rightarrow B,avg}}
-\end{equation}
+$D = \frac{dT_{A \rightarrow B}(t)}{dT_{A \rightarrow B,avg}}$
+
 
 These can be mostly used for scaling known/approximated pollutant sources for pollutant dispersion studies.\
 
