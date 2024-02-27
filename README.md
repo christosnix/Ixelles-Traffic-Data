@@ -8,9 +8,7 @@ The data regard **density** of traffic and NOT actual traffic counts. They were 
 $D = \frac{dT_{A \rightarrow B}(t)}{dT_{A \rightarrow B,avg}}$
 
 
-These can be mostly used for scaling known/approximated pollutant sources for pollutant dispersion studies.\
-
-Example plot of the data can be sen below:\
+These can be mostly used for scaling known/approximated pollutant sources for pollutant dispersion studies. Example plot of the data can be sen below:\
 ![Ixelles study case map](./traffic_data.svg)
 
 
